@@ -63,7 +63,7 @@ look at each kit's `:qualification` map.
   indistinguishable from a complete one.
 
 ```bash
-nbb --classpath ".:scripts/nbb_compat" -e '
+kbb --backend sci --classpath ".:scripts/nbb_compat" -e '
 (ns x (:require [clojure.edn :as edn] ["fs" :as fs] ["path" :as p]))
 (def dir "orgs/kotoba-lang/amu/resources/kotoba/lang/capability-kits")
 (doseq [f (sort (fs/readdirSync dir))]
