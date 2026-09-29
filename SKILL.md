@@ -49,7 +49,7 @@ restriction protects — some axes have a stated widening path and some
 
 **Do not quote a disposition from any document, including this one.** Read the
 file. Every value in this workspace that was ever copied into prose went stale,
-including into the repo-wide CLAUDE.md more than once.
+including into the repo-wide AGENTS.md more than once.
 
 ### 2. Ask which backends, not whether
 

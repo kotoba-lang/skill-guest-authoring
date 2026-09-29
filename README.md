@@ -22,7 +22,7 @@ gap and gets copied.
 ## Why it states no readiness values
 
 Every capability number in this workspace that was copied into prose went
-stale, including in the repo-wide `CLAUDE.md`, more than once. So this package
+stale, including in the repo-wide `AGENTS.md`, more than once. So this package
 carries *how to read* the authorities and never *what they said*. A skill that
 quotes a qualification table is a skill that will one day be confidently wrong.
 
